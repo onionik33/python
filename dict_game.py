@@ -60,7 +60,7 @@ def timedelta(start, end):
     return text
 
 
-def arr_center_text(arr, num):
+def arr_center_text(arr, num)-> list:
     for i in range(len(arr)):
         arr[i] = arr[i].center(num)
     return arr
