@@ -2,7 +2,7 @@ Path;Name
 dict/dict_verb.csv;Глаголы
 dict/dict_adjective.csv;Прилагательные
 dict/dict_noun.csv;Существительные
-dict/dict_number.csv;Числа
+dict/dict_newword.csv;Новые слова
 dict/dict_seasons.csv;Времена года и т.д.
 dict/dict_people.csv;Люди
 dict/dict_nature.csv;Природа

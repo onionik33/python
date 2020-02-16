@@ -10,9 +10,11 @@ bear;медведь
 bread;хлеб
 bread and butter;хлеб с маслом
 breakfast;завтрак
+bowl;миска
 butter;масло
 cafe;кафе
 cake;торт ,пирожное
+cage;клетка
 cheese;сыр
 cherry;вишня
 chick;цыплёнок, птенец
@@ -34,6 +36,8 @@ egg;яйцо
 eggcup;подставка под яйцо
 elephant;слон
 farm;ферма
+fish;рыба
+fishbowl;аквариум
 fox;лисица
 frog;лягушка
 garden;сад
@@ -42,6 +46,7 @@ giraffe;жираф
 goose;гусь
 grape;виноградина
 grapes;виноград
+grass;трава
 ham;ветчина
 hamburger;гамбургер
 horse;лошадь
@@ -76,6 +81,7 @@ rose;роза
 salad;салат
 sandwich;бутерброд
 sea;море
+seed;зерно
 sheep;овца
 sky;небо
 snake;змея

@@ -178,7 +178,7 @@ class DictInterface():
 
     def game_dict(self, event):
         '''срабатывает при вводе слова и нажатии на Enter'''
-        self.game.my_eng = event.get()
+        self.game.my_eng = self.engword.get()
         self.game.game()
         self.countwords.set(self.game.count_wordsdict)
         self.log_text.insert(self.count_str_log_text,
